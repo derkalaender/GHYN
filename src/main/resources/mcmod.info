@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ghyn",
+  "name": "Glass Hurts You Now - GHYN",
+  "description": "Well... you know",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["derkalaender"],
+  "credits": "Me, myself and I",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
